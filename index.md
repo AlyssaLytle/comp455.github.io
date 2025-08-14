@@ -4,4 +4,4 @@ title: home
 contributors: Alyssa Byrnes
 ---
 
-# Welcome to Discrete Structures!
+# Welcome to 455!
