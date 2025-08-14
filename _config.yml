@@ -34,7 +34,7 @@ url: "https://alyssalytle.github.io/455" # the base hostname & protocol for your
 theme: minima
 plugins:
   - jekyll-feed
-  - remote-theme
+  #- jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
