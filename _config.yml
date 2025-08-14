@@ -32,12 +32,9 @@ url: "https://alyssalytle.github.io/comp455" # the base hostname & protocol for 
 
 # Build settings
 
-remote_theme: pages-themes/dinky@v0.2.0
-
-
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
 # Exclude from processing.
