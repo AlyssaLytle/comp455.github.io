@@ -116,7 +116,7 @@ All Carolina students are expected to follow these AI guidelines:
 2. Engage responsibly with AI. You must evaluate AI-generated outputs for potential biases, limitations, inaccuracies, false output, and ethical implications. Do not put personal or confidential data into these tools.   
 3. The use of AI must be open and documented. You should declare, explain, and cite any use of AI in the creation of your work using applicable standards (e.g., APA, MLA, course guidelines). Understand that you are ultimately 100% responsible for your final product.   
 4. Follow specific AI guidelines in this syllabus. If you are unsure, check with me. Guidance offered in this syllabus would be referenced should an issue be referred to Student Conduct for alleged academic misconduct.   
-5. *\[Add details that apply to specific circumstances, assignments, or activities within the course. Additional guidance for faculty is available on the* [AI @ UNC website](https://ai.unc.edu/ai-guidance-for-faculty/).\]
+
 
 #### *Syllabus Changes*
 
