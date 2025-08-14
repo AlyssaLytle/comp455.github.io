@@ -1,3 +1,10 @@
+---
+layout: default
+title: syllabus
+contributors: Alyssa Byrnes
+---
+
+
 # Comp 455-001: Models of Languages and Computation
 
 

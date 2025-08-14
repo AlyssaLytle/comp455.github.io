@@ -1,49 +1,23 @@
-<!doctype html>
+---
+layout: base
+---
+<article class="post">
 
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
 
 
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <a href="{{ '/' | relative_url }}" >
-        <h1 class="header" >{{ site.title | default: site.github.repository_name }}</h1>
-      </a>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-
-        <ul>
-          <li><a href="/comp455/index.html">Home</a></li> 
+          <!-- 
+<ul> <li><a href="/comp455/index.html">Home</a></li> 
           <li><a href="/comp455/syllabus">Syllabus</a></li>
-          <!-- <li><a href="/comp283/resources">Resources</a></li> -->
+         <li><a href="/comp283/lecture-notes">Lecture Notes</a></li>
           
-        </ul>
+        </ul> -->
 
-
-
-      </header>
-
-      <section>
-        {{ content }}
-      </section>
-
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-      </footer>
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-  </body>
-</html>
