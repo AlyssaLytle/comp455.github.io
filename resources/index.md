@@ -6,4 +6,5 @@ contributors: Alyssa Byrnes
 
 # Course Resources
 
-Coming Soon 
+
+* [FSM Builder](https://madebyevan.com/fsm/)
